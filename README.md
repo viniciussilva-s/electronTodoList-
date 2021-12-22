@@ -1,0 +1,1 @@
+## Esse projeto foi utilizado como base para entendimento de electron da rocketseat
